@@ -8,10 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  address: /
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Serena, a Data Scientist specializing in the application of **Aritifical Intelligence** within the semicondictor industry, currently working on deeping learning in defect image classification. 
+Hello! I am Serena, a **Data Scientist** specializing in the application of **Aritifical Intelligence** within the semicondictor industry, currently working on deeping learning in defect image classification. 
 
 My acedemic journey, which spanned from a Bachelor's in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/) to a Master's in Statistics from [University of California, Berkeley](https://www.berkeley.edu/), has been intrinsically linked to my commitment towards employing data science to sloving complex problems. 
 
