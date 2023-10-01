@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-# permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+permalink: /
+subtitle: 510-859-5468, zhaojinwen@berkeley.edu
 
 profile:
   align: right
