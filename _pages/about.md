@@ -23,12 +23,14 @@ Hello! I am Serena, a Data Scientist specializing in the application of Aritific
 
 My acedemic journey, which spanned from a Bachelor's in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/) to a Master's in Statistics from [University of California, Berkeley](https://www.berkeley.edu/), has been intrinsically linked to my commitment towards employing data science to sloving complex problems. 
 
-My fascination is deeply rooted in harnessing artificial intelligence to enhance productivity and sharpen efficiency across various domains. 
+I'm deeply fascinated by leveraging artificial intelligence to optimize productivity across diverse fields. In finance, I’ve implemented **reinforcement learning**(multi-armed bandit and Q-learning) to devise an automatic investment planning agent, achieving an 8% return in 5 months. I have also develped a Transformer-Based model in Portfolo Management. On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate. 
+
+<!-- My fascination is deeply rooted in harnessing artificial intelligence to enhance productivity and sharpen efficiency across various domains. 
 My previous endeavors encompass the implementation of reinforcemnet learning in finance, which includes an automatic investment planning agent based on multi-armed bandit and Q-learning, who achivend 8% rate of return in 5 months. 
 I have also develped a Transformer-Based model in Portfolo Management. 
-On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate. 
+On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate.  -->
 
-As I weave through the complex tapestry of ariticial intelligence and myriad industry-specific challenges, I warmly invite collaborations with professionals who also champion the application of data-driven solutions, aiming to mold the technological frontiers of the future.
+As I weave through the complex tapestry of Ariticial Intelligence and myriad industry-specific challenges, I warmly invite collaborations with professionals who also champion the application of data-driven solutions, aiming to mold the technological frontiers of the future.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
