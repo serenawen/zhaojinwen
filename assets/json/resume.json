@@ -45,13 +45,13 @@
   "education": [
     {
       "institution": "University of California, Berkeley",
-      "area": "Statistics",
+      "area": "Department of Statistics, Statistics",
       "studyType": "Master",
       "startDate": "2021-08",
       "endDate": "2022-12",
       "courses": [
-        "Efficient Algorithms and Intractable Problems", "Data Structure (Java)",
-        "Linear Models", "Analysis of Time Series", "Game Theory" 
+        "Efficient Algorithms and Intractable Problems(A)", "Data Structure (Java)(A)",
+        "Linear Models(A)", "Analysis of Time Series(A)", "Game Theory(A+)" 
       ]
     },
     {
