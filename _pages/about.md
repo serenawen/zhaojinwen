@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 510-859-5468, zhaojinwen@berkeley.edu
+subtitle: 510-859-5468 | zhaojinwen@berkeley.edu | San Diego
 
 profile:
   align: right
@@ -19,9 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Serena, a Data Scientist specializing in the application of Aritifical Intelligence wthin the semicondictor industry, currently working on deeping learning in defect image classification. My acedemic journey, which spanned from a Bachelor's in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/) to a Master's in Statistics from [University of California, Berkeley](https://www.berkeley.edu/), has been intrinsically linked to my commitment towards employing data science to sloving complex problems. 
+Hello! I am Serena, a Data Scientist specializing in the application of Aritifical Intelligence within the semicondictor industry, currently working on deeping learning in defect image classification. 
 
-My fascination is deeply rooted in harnessing artificial intelligence to enhance productivity and sharpen efficiency across various domains. My previous endeavors encompass the implement of reinforcemnet learning in finance, which includes an automatic investment planning agent based on multi-armed bandit and Q-learning, who achivend 8% rate of return in 5 months. I have also develped a Transformer-Based model in Portfolo Management. On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate. 
+My acedemic journey, which spanned from a Bachelor's in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/) to a Master's in Statistics from [University of California, Berkeley](https://www.berkeley.edu/), has been intrinsically linked to my commitment towards employing data science to sloving complex problems. 
+
+My fascination is deeply rooted in harnessing artificial intelligence to enhance productivity and sharpen efficiency across various domains. 
+My previous endeavors encompass the implementation of reinforcemnet learning in finance, which includes an automatic investment planning agent based on multi-armed bandit and Q-learning, who achivend 8% rate of return in 5 months. 
+I have also develped a Transformer-Based model in Portfolo Management. 
+On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate. 
 
 As I weave through the complex tapestry of ariticial intelligence and myriad industry-specific challenges, I warmly invite collaborations with professionals who also champion the application of data-driven solutions, aiming to mold the technological frontiers of the future.
 
