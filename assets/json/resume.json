@@ -1,61 +1,77 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zhaojin(Serena) Wen",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "zhaojinwen@berkeley.edu | zhaojinwen1999@gmail.com",
+    "phone": "(510) 859-5469",
+    "url": "https://serenawen.github.io/zhaojinwen/"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "pSemi, A Murata Company",
+      "position": "Data Scientist",
+      "startDate": "2023-02",
+      "endDate": "Present",
+      "summary": ""
+    },
+
+    {
+      "name": "China Asset Management Co., Ltd. (1st Asset Management Company in China)",
+      "position": "Quantitative Researcher Intern",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
+      "summary": "Transformer-based Model in Portfolio Optimization"
+    },
+
+    {
+      "name": "DIDI Global, Inc (Top Tech Company in China)",
+      "position": "Machine Learning Engineer Intern",
+      "startDate": "2021-05",
+      "endDate": "2021-08",
+      "summary": "Few-shot Learning and Unsupervised Learning"
+    },
+
+    {
+      "name": "Baidu, Inc (Top Tech Company in China)",
+      "position": "Quantitative Researcher Intern",
+      "startDate": "2020-03",
+      "endDate": "2020-09",
+      "summary": "Reinforcement Learning in Investment Strategy Development"
     }
+
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "University of California, Berkeley",
+      "area": "Statistics",
+      "studyType": "Master",
+      "startDate": "2021-08",
+      "endDate": "2022-12",
       "courses": [
-        "Theory of Relativity"
+        "Efficient Algorithms and Intractable Problems", "Data Structure (Java)",
+        "Linear Models", "Analysis of Time Series", "Game Theory" 
       ]
+    },
+    {
+      "institution": "Nanjing University",
+      "url": "https://www.uzh.ch/",
+      "area": "Kuang Yaming Honors School, Statistics",
+      "studyType": "Bachelor",
+      "startDate": "2016-09",
+      "endDate": "2020-06"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "People Scholarship (5%)"
+    },
+    {
+      "title": " Security Research Competition, Excellence Awards (5%)"
+    },
+    {
+      "title": "Elite Program Scholarship (15%)"
     }
   ],
   "certificates": [],
@@ -63,7 +79,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker"
     },
     {
