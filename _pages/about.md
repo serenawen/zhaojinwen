@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,11 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Serena, a Data Scientist specializing in the application of Aritifical Intelligence within the semicondictor industry, currently working on deeping learning in defect image classification. 
+Hello! I am Serena, a Data Scientist specializing in the application of **Aritifical Intelligence** within the semicondictor industry, currently working on deeping learning in defect image classification. 
 
 My acedemic journey, which spanned from a Bachelor's in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/) to a Master's in Statistics from [University of California, Berkeley](https://www.berkeley.edu/), has been intrinsically linked to my commitment towards employing data science to sloving complex problems. 
 
-I'm deeply fascinated by leveraging artificial intelligence to optimize productivity across diverse fields. In finance, I’ve implemented **reinforcement learning**(multi-armed bandit and Q-learning) to devise an automatic investment planning agent, achieving an 8% return in 5 months. I have also develped a Transformer-Based model in Portfolo Management. On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate. 
+I'm deeply fascinated by leveraging AI to optimize productivity across diverse fields. In finance, I’ve implemented **reinforcement learning**(multi-armed bandit and Q-learning) to devise an automatic investment planning agent, achieving an 8% return in 5 months. I have also develped a Transformer-Based model in Portfolo Management. On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate. 
 
 <!-- My fascination is deeply rooted in harnessing artificial intelligence to enhance productivity and sharpen efficiency across various domains. 
 My previous endeavors encompass the implementation of reinforcemnet learning in finance, which includes an automatic investment planning agent based on multi-armed bandit and Q-learning, who achivend 8% rate of return in 5 months. 
