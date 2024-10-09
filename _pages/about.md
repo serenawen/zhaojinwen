@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 510-859-5468 | zhaojinwen@berkeley.edu | San Diego
+subtitle: 510-859-5468 | zhaojinwen@berkeley.edu 
 
 profile:
   align: right
@@ -16,11 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Serena, a **Data Scientist** specializing in the application of **Aritifical Intelligence** within the semicondictor industry, currently working on deeping learning in defect image classification. 
+Hello! I am Serena, a **Machine Learning Engineer** specializing in applying **Generative AI** within enterprises to improve operational efficiency, currently working on building a Knowledge Graph enhanced RAG system **(GraphRAG)** to enhance the earchability and accessibility of documents through an advanced chatbot inference. 
 
-My acedemic journey, which spanned from a Bachelor's in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/) to a Master's in Statistics from [University of California, Berkeley](https://www.berkeley.edu/), has been intrinsically linked to my commitment towards employing data science to sloving complex problems. 
+My acedemic journey, which spanned from a Bachelor's in Mathematics at [Nanjing University](https://www.nju.edu.cn/en/) to a Master's in Statistics from [University of California, Berkeley](https://www.berkeley.edu/), has been intrinsically linked to my commitment towards employing machine learning to sloving complex problems. 
 
-I'm deeply fascinated by leveraging AI to optimize productivity across diverse fields. In finance, I’ve implemented **reinforcement learning**(multi-armed bandit and Q-learning) to devise an automatic investment planning agent, achieving an 8% return in 5 months. I have also develped a Transformer-Based model in Portfolo Management. On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate. 
+Currently, my research focuses on **fine-tuning Large Language Models (LLMs)**, and I have extensive hands-on experience with Reinforcement Learning from Human Feedback (RLHF). Additionally, I’m working on positional bias mitigation and enhancing reasoning abilities in long-context LLMs
+
+<!-- I'm deeply fascinated by leveraging Generative AI to optimize productivity across diverse fields. In finance, I’ve implemented **reinforcement learning**(multi-armed bandit and Q-learning) to devise an automatic investment planning agent, achieving an 8% return in 5 months. I have also develped a Transformer-Based model in Portfolo Management. On top of these, I am becoming a [CFA](https://www.cfainstitute.org/) candidate.  -->
 
 <!-- My fascination is deeply rooted in harnessing artificial intelligence to enhance productivity and sharpen efficiency across various domains. 
 My previous endeavors encompass the implementation of reinforcemnet learning in finance, which includes an automatic investment planning agent based on multi-armed bandit and Q-learning, who achivend 8% rate of return in 5 months. 
